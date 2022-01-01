@@ -1,0 +1,27 @@
+コマンドMongo実行方法
+
+## setコマンドで一旦PATHを通す（最終行に追加）
+set PATH=%PATH%;C:\Program Files\MongoDB\Server\4.2\bin\
+ 
+## mongoコマンド実行
+mongo
+
+
+https://www.ipentec.com/document/mongodb-open-mongodb-command-prompt-window
+
+
+Node.Jsでの実行
+インストール
+npm install mongodb --save
+https://docs.mongodb.com/drivers/node
+
+↓
+
+Connect to Mango DB
+
+http://mongodb.github.io/node-mongodb-native/3.5/tutorials/connect/
+
+をapp.jsに張り付けてNode app.jsで実行する
+
+
+Insertのコードhttps://mongodb.github.io/node-mongodb-native/2.2/quick-start/quick-start/
