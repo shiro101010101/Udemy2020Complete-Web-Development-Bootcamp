@@ -23,26 +23,17 @@ From HTML to full-stack deployment, these projects highlight my journey in maste
 
 ## 💼 Selected Projects
 
-### 📄 Personal Portfolio Website  
+### 📄 Tin dog
 🛠 HTML, CSS, Bootstrap  
 🎯 Responsive website with personal profile and contact form  
-🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Personal%20Website)
+🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Sec6-8%2C%20TinDog%20Bootstrap/tindog/TinDog-Start-master/TinDog-Start-master)
 
 ---
 
-### 🎲 Dice Game  
-🛠 JavaScript, DOM  
+### Sec22-29 Todolist
+🛠 EJS,MangoDB,horoku
 🎯 Simple 2-player dice roll game with dynamic image updates  
-🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Dicee%20Challenge)
-
----
-
-### 🥁 Drum Kit  
-🛠 JavaScript, Event Listeners  
-🎯 Interactive drum kit playable via keyboard/mouse  
-🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Drum%20Kit%20Starting%20Files)
-
----
+🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/ToDoList)
 
 ### 📬 Newsletter Signup  
 🛠 Node.js, Express.js, Mailchimp API  
@@ -61,14 +52,14 @@ From HTML to full-stack deployment, these projects highlight my journey in maste
 ### 📖 Blog Website  
 🛠 Node.js, Express.js, EJS, MongoDB  
 🎯 Full-featured blog with compose, read, and delete features  
-🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Blog%20Website)
+🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Blog-with-Database-Starting-Files)
 
 ---
 
 ### 📦 Keeper App (React Note-Taking App)  
 🛠 React.js  
 🎯 Front-end note keeper with add/delete functions  
-🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Keeper%20App)
+🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/keeper-app-part-1-starting)
 
 ---
 
