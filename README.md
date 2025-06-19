@@ -35,11 +35,6 @@ From HTML to full-stack deployment, these projects highlight my journey in maste
 🎯 Simple 2-player dice roll game with dynamic image updates  
 🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/ToDoList)
 
-### 📬 Newsletter Signup  
-🛠 Node.js, Express.js, Mailchimp API  
-🎯 Signup form with mailing list integration  
-🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Newsletter-Signup)
-
 ---
 
 ### 🔐 Secrets App (Authentication Project)  
@@ -63,17 +58,10 @@ From HTML to full-stack deployment, these projects highlight my journey in maste
 
 ---
 
-### 📍 Weather App  
-🛠 Express.js, REST API  
-🎯 Fetch weather data based on user input city  
-🔗 [View Code](https://github.com/shiro101010101/Udemy2020Complete-Web-Development-Bootcamp/tree/master/Weather%20Project)
-
----
-
 ## 📚 Education & Certification
 
 🎓 Udemy – The Complete 2020 Web Development Bootcamp  
-🎓 Le Wagon – Full-Time Data Science Bootcamp  
+🎓 Le Wagon – Part-Time Data Science Bootcamp  
 🎓 TH Deggendorf – B.Sc. Artificial Intelligence (1 Year, Computer Science)
 
 ---
